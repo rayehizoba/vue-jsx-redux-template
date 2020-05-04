@@ -2,6 +2,7 @@
 
 ## Project setup
 ```
+git clone https://github.com/rayehizoba/vue-jsx-redux-template.git [app_name]
 yarn install
 ```
 
