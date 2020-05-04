@@ -1,4 +1,4 @@
-# intuit_diversity
+# vue-jsx-redux-template
 
 ## Project setup
 ```
